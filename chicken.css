@@ -1,0 +1,13 @@
+body {
+    background-color: pink;
+}
+h1{
+    text-align: center; font-weight: 700;
+    text-decoration: purple dashed underline;
+}
+a{
+    text-decoration: none;
+}
+p{
+    line-height: 1.5; font-family: Arial; 
+}
